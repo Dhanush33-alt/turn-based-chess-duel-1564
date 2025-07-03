@@ -4,7 +4,7 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Manoj8726/turn-based-chess-duel-1564.git
+git clone https://github.com/Dhanush33-alt/turn-based-chess-duel-1564.git
 cd -turn-based-chess-duel-1564
 ```
 2. Install Dependencies
